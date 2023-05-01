@@ -1,0 +1,289 @@
+[
+  {
+    "name": "Crispy Rosemary Chicken and Fries",
+    "prod_description": "Potatoes are crispy like french fries, just serve with ketchup.  Kids love this!",
+    "price": 24.99,
+    "quantity": 20,
+    "image_file": "/images/rosemary_chicken_with_potatoes.png",
+    "ingredients": "chicken, potatoes, olive oil, rosemary, oregano, garlic powder, salt, pepper"
+},
+{
+    "name": "Slow Cooked Baby Back Ribs",
+    "prod_description": "Ribs cooked to perfection",
+    "price": 21.99,
+    "quantity": 60,
+    "image_file": "/images/baby_back_ribs.png",
+    "ingredients": "baby back ribs, salt, black pepper, water, onion, garlic, barbeque sauce"    },
+{
+    "name": "Worlds Best Honey Garlic Pork Chops",
+    "prod_description": "Plain old pork chops turned into something special", 
+    "price": 15.99,
+    "quantity": 36,
+    "image_file": "/images/worlds_best_pork_chops.png",
+    "ingredients": "ketchup, honey, soy sauce, garlic, pork chops"
+},
+{
+    "name": "Chicken, Sausage, Peppers, and Potatoes",
+    "prod_description": "Chicken, sausage, peppers, and potatoes",
+    "price": 13.99,
+    "quantity": 10,
+    "image_file": "/images/chicken_sausage_pepper_potatoes.png",
+    "ingredients": "olive oil, hot Italian sausage, chicken, sweet peppers, potatoes, red onion, yellow onion, Italian herbs, kosher salt, black pepper, Italian parsley"
+},
+{
+    "name": "Mississippi Roast - Slow Cooked Pepperoncini Pot Roast",
+    "prod_description": "Serve with mashed potatoes or egg noodles.",
+    "price": 18.99,
+    "quantity": 8,
+    "image_file": "/images/pepperoncini_pot_roast.png",
+    "ingredients": "beef chuck roast, butter, pepperoncini peppers, ranch dressing mix, au jus mix"
+},
+{
+    "name": "Sheet Pan Chicken Fajitas",
+    "prod_description": "Quick and flavorfull chicken fajitas.",
+    "price": 12.99,
+    "quantity": 50,
+    "image_file": "/images/sheet_pan_chicken_fajitas.png",
+    "ingredients": "vegetable oil, chili powder, oregano, garlic, onion, cumin, salt, pepper, cayenne pepper, chicken, bell peppers, onion, cilantro, lime"
+},
+{
+    "name": "Fiesta Slow Cooked Shredded Chicken Tacos",
+    "prod_description": "Delicious chicken tacos. Combine with cheese, lettuce, tomatoes, and onions for a taste treat",
+    "price": 10.00,
+    "quantity": 100,
+    "image_file": "/images/fiesta_shredded_chicken_tacos.png",
+    "ingredients": "chicken broth, taco seasoning mix, chicken"
+},
+{
+    "name": "Crispy Oven-Roasted Rosemary Chicken with Sausage and Potatoes",
+    "prod_description": "Easy pot roast shortcut.",
+    "price": 19.99,
+    "quantity": 18,
+    "image_file": "/images/rosemary_chicken_sausage_potatoes.png",
+    "ingredients": "olive oil, bratwurst, chicken, kosher salt, potatoes, rosemary, red wine vinegar"
+},
+{
+    "name": "Easy and Quick Halushki",
+    "prod_description": "This Polish dish appeals to the whole family!",
+    "price": 12.98,
+    "quantity": 5,
+    "image_file": "/images/halushki.png",
+    "ingredients": "bacon, onion, egg noodles, cabbage, salt, black pepper"    },
+{
+    "name": "Peach Pork Picante",
+    "prod_description": "Salsa, seasoning, pork, and peach preserves",
+    "price": 14.99,
+    "quantity": 10,
+    "image_file": "/images/peach_pork_picante.png",
+    "ingredients": "pork, taco seasoning mix, salsa, peach preserves"
+},
+{
+    "name": "Easy Breaded Shrimp",
+    "prod_description": "A hit with kids and adults alike",
+    "price": 19.99,
+    "quantity": 30,
+    "image_file": "/images/easy_breaded_shrimp.png",
+    "ingredients": "vegetable oil, shrimp, egg, bread crumbs"
+},
+{
+    "name": "Cabbage Balushka or Cabbage and Noodles",
+    "prod_description": "Cabbage, onions, and egg noodles cooked in butter",
+    "price": 9.99,
+    "quantity": 2,
+    "image_file": "/images/cabbage_balushka.png",
+    "ingredients": "egg noodles, butter, onion, cabbage, salt, black pepper"
+},
+{
+    "name": "Roasted Chicken with Lemon and Rosemary",
+    "prod_description": "Whole chicken cooked with lemons, garlic, and rosemary",
+    "price": 11.99,
+    "quantity": 25,
+    "image_file": "/images/roasted_chicken_lemon_rosemary.png",
+    "ingredients": "chicken, onion, lemon, garlic, rosemary, olive oil, salt, black pepper"
+},
+{
+    "name": "Sheet Pan Shrimp Fajitas",
+    "prod_description": "Easy shrimp fajitas",
+    "price": 15.99,
+    "quantity": 10,
+    "image_file": "/images/sheet_pan_shrimp_fajitas.png",
+    "ingredients": "fajita seasoning, olive oil, shrimp, red bell pepper, yellow bell pepper, red onion, jalapeno pepper"
+},
+{
+    "name": "Fettucine Alfredo with Ham",
+    "prod_description": "Fettucine alfredo with ham",
+    "price": 12.99,
+    "quantity": 15,
+    "image_file": "/images/fettucine_alfredo_with_ham.png",
+    "ingredients": "pasta, butter, cooked ham, heavy cream, Parmesan cheese"
+},
+{
+    "name": "Pulled Pork Barbeque",
+    "prod_description": "Pork ribs along with pork loin. Serve with a baked potatoes or bun",
+    "price": 12.99,
+    "quantity": 30,
+    "image_file": "/images/pulled_pork_barbeque.png",
+    "ingredients": "barbeque sauce, dry onion soup mix, pork"
+},
+{
+  "name": "Tender Slow Cooked Pork Roast",
+  "prod_description": "Falls off the bone!",
+  "price": 29.99,
+  "quantity": 23,
+  "image_file": "/images/slow_cooked_pork_roast.png",
+  "ingredients": "pork, tomato sauce, soy sauce, white sugar, ground mustard"
+},
+{
+  "name": "Roasted Carrot and Fennel Pork",
+  "prod_description": "Pork, served deliciously.",
+  "price": 19.95,
+  "quantity": 14,
+  "image_file": "/images/roasted_carrot_and_fennel_pork.png",
+  "ingredients": "pork, honey mustard, thyme, fennel bulbs, carrot, onion, salt, black pepper"
+},
+
+{
+  "name": "Slow Cooked Turkey Breast with Gravy",
+  "prod_description": "Delicious gravy with super moist turkey breast",
+  "price": 12.99,
+  "quantity": 25,
+  "image_file": "/images/slow_cooked_turkey_breast.png",
+  "ingredients": "turkey, cream of mushroom soup, Cheddar cheese soup"
+},
+{
+  "name": "Broiled Spanish Mackerel",
+  "prod_description": "Mackerel simple and tasty",
+  "price": 19.99,
+  "quantity": 20,
+  "image_file": "/images/broiled_Spanish_mackerel.png",
+  "ingredients": "Spanish mackerel, olive oil, paprika, salt, black pepper, lemon"
+},
+{
+  "name": "Salsa Verde Pork",
+  "prod_description": "Pork with Salsa Verde. Also, excellent for leftovers",
+  "price": 19.99,
+  "quantity": 5,
+  "image_file": "/images/salsa_verde_pork.png",
+  "ingredients": "canola oil, pork, green salsa"
+},
+{
+"name": "Chicken, Apple, and Brussels Sprout Sheet Pan Dinner",
+"prod_description": "Flavors of fall. Serve alone or with rice or salad",
+"price": 18.99,
+"quantity": 20,
+"image_file": "/images/chicken_apple_brussels_sprout.png",
+"ingredients": "Brussels sprouts, apple, pancetta, olive oil, rosemary, chicken, salt, black pepper"
+},
+{
+"name": "Bucatini Cacio e Pepe - Roman Sheep Herders Pasta",
+"prod_description": "Pasta, cheese, and pepper",
+"price": 12.99,
+"quantity": 20,
+"image_file": "/images/bucatini_cacio_e_pepe.png",
+"ingredients": "salt, bucatini, Pecorino Romano cheese, black pepper"
+},
+{
+"name": "Jackfruit Pulled 'Pork'",
+"prod_description": "Vegetarian pork.",
+"price": 23.95,
+"quantity": 6,
+"image_file": "/images/jackfruit_pulled_pork.png",
+"ingredients": "olive oil, Vidalia onion, garlic, green jackfruit, barbeque sauce"
+},
+{
+"name": "Taco-Seasoned Salmon",
+"prod_description": "Even if you don't like fish, you'll enjoy this salmon",
+"price": 14.99,
+"quantity": 12,
+"image_file": "/images/taco_seasoned_salmon.png",
+"ingredients": "vegetable oil, Italian-seasoned bread crumbs, taco seasoning, salmon"
+},
+{
+"name": "Prosciutto and Asparagus Pasta",
+"prod_description": "Prosciutto-wrapped asparagus is a classic appetizer. With pasta, it becomes dinner",
+"price": 24.99,
+"quantity": 20,
+"image_file": "/images/prosciutto_and_asparagus_pasta",
+"ingredients": "asparagus, prosciutto, olive oil, green onions, linguine"
+},
+{
+"name": "Sheet Pan Vegetable Dinner with Feta",
+"prod_description": "Great with bread and salad",
+"price": 14.99,
+"quantity": 25,
+"image_file": "/images/vegetable_dinner_with_feta.png",
+"ingredients": "olive oil, zucchini, carrots, red bell peppers, potatoes, tomatoes, black olives, green onions, garlic, oregano, thyme, salt, black pepper, rosemary, bay leaves, feta cheese"
+},
+{
+"name": "Vegetarian Sheet Pan Dinner with Chickpeas and Veggies",
+"prod_description": "Delicious vegetarian choice for dinner",
+"price": 14.99,
+"quantity": 20,
+"image_file": "/images/vegetarian_dinner_chickpeas_veggies.png",
+"ingredients": "chickpeas, butternut squash, onion, sweet potato, carrots, potatoes, vegetable oil, salt, black pepper, onion powder, garlic powder, fennel seeds, sage"
+},
+{
+"name": "Mac and Cheese",
+"prod_description": "Classic macaroni and cheese.",
+"price": 9.99,
+"quantity": 40,
+"image_file": "/images/macaroni_and_cheese.png",
+"ingredients": "water, macaroni, butter, all-purpose flour, milk, heavy whipping cream, Worcestershire sauce, black pepper, Cheddar cheese, panko bread crumbs, Italian seasoning, garlic salt"
+},
+{
+"name": "Baked Old Bay Salmon",
+"prod_description": "Salmon with an Old Bay seasoning twist",
+"price": 18.99,
+"quantity": 20,
+"image_file": "/images/baked_old_bay_salmon.png",
+"ingredients": "salmon, mayonnaise, seafood seasoning"
+},
+{
+"name": "Chicken Nachos with Refried Beans",
+"prod_description": "Nachos with refried beans.",
+"price": 11.99,
+"quantity": 17,
+"image_file": "/images/chicken_nachos_refried_beans.png",
+"ingredients": "tortilla chips, refried beans, chicken, jalapeno peppers, Cheddar cheese"
+},
+{
+"name": "Roasted Sausage and Vegetables Dinner",
+"prod_description": "Roasted sausage and vegetables, cooked just the way you like them",
+"price": 14.99,
+"quantity": 30,
+"image_file": "/images/roasted_sausage_vegetables_dinner",
+"ingredients": "olive oil, pork sausage, potatoes, onion, yellow bell pepper, orange bell pepper, red bell pepper, zucchini, oregano, salt, black pepper"
+},
+{
+"name": "Broiled Lemon-Pepper Tilapia",
+"prod_description": "Broiled lemon-pepper tilapia",
+"price": 16.99,
+"quantity": 15,
+"image_file": "/images/broiled_lemon_pepper_tilapia.png",
+"ingredients": "tilapia, parsley, lemon-pepper seasoning, salted butter, bread crumbs"
+},
+{
+"name": "Pineapple BBQ Pulled Pork",
+"prod_description": "Pineapple BBQ Pulled Pork",
+"price": 21.99,
+"quantity": 40,
+"image_file": "/images/pineapple_bbq_pulled_pork.png",
+"ingredients": "pork, chicken broth, honey barbeque sauce, onion, pineapple"
+},
+{
+"name": "Honey-Chipotle Chicken",
+"prod_description": "Shredded chicken, black beans, with honey-chipotle sauce",
+"price": 17.99,
+"quantity": 40,
+"image_file": "/images/honey_chipotle_chicken.png",
+"ingredients": "honey, garlic, chipotle peppers in adobo sauce, chicken, black beans"
+},
+{
+"name": "Baked Spaghetti",
+"prod_description": "Delicious with crusty garlic bread",
+"price": 12.99,
+"quantity": 15,
+"image_file": "/images/baked_spaghetti.png",
+"ingredients": "butter, onion, kosher salt, Italian seasoning, garlic, beef, marinara sauce, basil, spaghetti, heavy cream, Parmesan cheese, mozzarella cheese"
+}
+]
